@@ -119,7 +119,7 @@ Real Payment Integration: Connect with a payment gateway (e.g., Stripe or PayPal
 
 User Authentication: Allow users to register, sign in, and manage their own campaigns.
 
-Database Support: Use a backend (e.g., Firebase, Node + MongoDB) to persist campaign data, comments, and reports.
+Database Support: Use a backend (e.g., Firebase, Node + MySQL) to persist campaign data, comments, and reports.
 
 Email Notifications: Send updates or thank-you emails to campaign supporters.
 
